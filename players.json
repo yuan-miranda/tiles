@@ -1,8 +1,492 @@
 [
     {
-        "player_name": "Player839",
-        "x": 114,
-        "z": 99,
-        "dimension": "overworld"
+        "player_name": "nidianazareno",
+        "x": -440,
+        "z": -1271,
+        "dimension": "overworld",
+        "last_seen": 1782986118
+    },
+    {
+        "player_name": "MetroSarc",
+        "x": -31461,
+        "z": -1989,
+        "dimension": "overworld",
+        "last_seen": 1782118408
+    },
+    {
+        "player_name": "mexelsr",
+        "x": -755,
+        "z": -1651,
+        "dimension": "overworld",
+        "last_seen": 1782991790
+    },
+    {
+        "player_name": "Mexel",
+        "x": -746,
+        "z": -1648,
+        "dimension": "overworld",
+        "last_seen": 1781329876
+    },
+    {
+        "player_name": "RMGTV",
+        "x": -778,
+        "z": -1606,
+        "dimension": "overworld",
+        "last_seen": 1782974389
+    },
+    {
+        "player_name": "Borags",
+        "x": -4803,
+        "z": -5746,
+        "dimension": "overworld",
+        "last_seen": 1781774933
+    },
+    {
+        "player_name": "Dr.Rapist",
+        "x": -31377,
+        "z": -2056,
+        "dimension": "overworld",
+        "last_seen": 1781333173
+    },
+    {
+        "player_name": "Dr.Racist",
+        "x": -31384,
+        "z": -2057,
+        "dimension": "overworld",
+        "last_seen": 1781333165
+    },
+    {
+        "player_name": "skibidi",
+        "x": -2430,
+        "z": -157,
+        "dimension": "the_end",
+        "last_seen": 1781343253
+    },
+    {
+        "player_name": "Aezuuu",
+        "x": 214,
+        "z": -1408,
+        "dimension": "overworld",
+        "last_seen": 1782471165
+    },
+    {
+        "player_name": ".yuanmiranda",
+        "x": 231,
+        "z": 2,
+        "dimension": "the_end",
+        "last_seen": 1781395707
+    },
+    {
+        "player_name": "JFK",
+        "x": -619,
+        "z": -730,
+        "dimension": "nether",
+        "last_seen": 1781447914
+    },
+    {
+        "player_name": "Alex",
+        "x": -619,
+        "z": -730,
+        "dimension": "nether",
+        "last_seen": 1781601990
+    },
+    {
+        "player_name": "GoldFarm",
+        "x": -617,
+        "z": -671,
+        "dimension": "nether",
+        "last_seen": 1781500140
+    },
+    {
+        "player_name": "Steve",
+        "x": -4956,
+        "z": -5914,
+        "dimension": "overworld",
+        "last_seen": 1781688841
+    },
+    {
+        "player_name": "BoragSkibidi",
+        "x": 65,
+        "z": -161,
+        "dimension": "nether",
+        "last_seen": 1781455740
+    },
+    {
+        "player_name": "BoragEye",
+        "x": 191,
+        "z": -115,
+        "dimension": "overworld",
+        "last_seen": 1781455797
+    },
+    {
+        "player_name": "BoragEYE",
+        "x": -4949,
+        "z": -5928,
+        "dimension": "overworld",
+        "last_seen": 1781689215
+    },
+    {
+        "player_name": "Akayechi",
+        "x": 658,
+        "z": -1336,
+        "dimension": "overworld",
+        "last_seen": 1782737652
+    },
+    {
+        "player_name": "Darktanyan",
+        "x": -31376,
+        "z": -2076,
+        "dimension": "overworld",
+        "last_seen": 1781949069
+    },
+    {
+        "player_name": "Redskie",
+        "x": 201,
+        "z": -1518,
+        "dimension": "overworld",
+        "last_seen": 1781605575
+    },
+    {
+        "player_name": "Chicago",
+        "x": -31367,
+        "z": -2037,
+        "dimension": "overworld",
+        "last_seen": 1781528502
+    },
+    {
+        "player_name": "FBI",
+        "x": 128,
+        "z": -1413,
+        "dimension": "overworld",
+        "last_seen": 1781841105
+    },
+    {
+        "player_name": "Criminal",
+        "x": -31371,
+        "z": -2067,
+        "dimension": "overworld",
+        "last_seen": 1781841051
+    },
+    {
+        "player_name": "Robber",
+        "x": -31376,
+        "z": -2049,
+        "dimension": "overworld",
+        "last_seen": 1781841058
+    },
+    {
+        "player_name": "Stalker",
+        "x": -31396,
+        "z": -2021,
+        "dimension": "overworld",
+        "last_seen": 1781841114
+    },
+    {
+        "player_name": "Pursuer",
+        "x": -31399,
+        "z": -2020,
+        "dimension": "overworld",
+        "last_seen": 1781841119
+    },
+    {
+        "player_name": "Jeffrey_Epstein",
+        "x": -433,
+        "z": -1280,
+        "dimension": "overworld",
+        "last_seen": 1781998926
+    },
+    {
+        "player_name": "Diddy",
+        "x": -431,
+        "z": -1291,
+        "dimension": "overworld",
+        "last_seen": 1781945254
+    },
+    {
+        "player_name": "Elon",
+        "x": -430,
+        "z": -1287,
+        "dimension": "overworld",
+        "last_seen": 1781945249
+    },
+    {
+        "player_name": "ElonMusk",
+        "x": -423,
+        "z": -1278,
+        "dimension": "overworld",
+        "last_seen": 1782120520
+    },
+    {
+        "player_name": "Kids",
+        "x": -428,
+        "z": -1280,
+        "dimension": "overworld",
+        "last_seen": 1781945293
+    },
+    {
+        "player_name": "Epstein",
+        "x": 188,
+        "z": -109,
+        "dimension": "overworld",
+        "last_seen": 1781945773
+    },
+    {
+        "player_name": "JeffreyEpstein",
+        "x": -423,
+        "z": -1281,
+        "dimension": "overworld",
+        "last_seen": 1782120566
+    },
+    {
+        "player_name": "MichealJackson",
+        "x": -433,
+        "z": -1286,
+        "dimension": "overworld",
+        "last_seen": 1781946143
+    },
+    {
+        "player_name": "barackobama",
+        "x": -31390,
+        "z": -2062,
+        "dimension": "overworld",
+        "last_seen": 1781947255
+    },
+    {
+        "player_name": "DonaldTrump",
+        "x": -424,
+        "z": -1282,
+        "dimension": "overworld",
+        "last_seen": 1782120620
+    },
+    {
+        "player_name": "ConQuest",
+        "x": -31359,
+        "z": -2063,
+        "dimension": "overworld",
+        "last_seen": 1781947504
+    },
+    {
+        "player_name": "Thragg",
+        "x": 86,
+        "z": -1403,
+        "dimension": "overworld",
+        "last_seen": 1781947521
+    },
+    {
+        "player_name": "RacistMan",
+        "x": -31381,
+        "z": -2087,
+        "dimension": "overworld",
+        "last_seen": 1781947674
+    },
+    {
+        "player_name": "Mob",
+        "x": 241,
+        "z": -1994,
+        "dimension": "overworld",
+        "last_seen": 1782107440
+    },
+    {
+        "player_name": "L",
+        "x": 257,
+        "z": -1772,
+        "dimension": "overworld",
+        "last_seen": 1782107476
+    },
+    {
+        "player_name": "Light",
+        "x": 237,
+        "z": -1492,
+        "dimension": "overworld",
+        "last_seen": 1782107499
+    },
+    {
+        "player_name": "LarpSantiago",
+        "x": -758,
+        "z": -1540,
+        "dimension": "overworld",
+        "last_seen": 1782119868
+    },
+    {
+        "player_name": "Goku",
+        "x": -755,
+        "z": -1559,
+        "dimension": "overworld",
+        "last_seen": 1782119939
+    },
+    {
+        "player_name": "Sukuna",
+        "x": -744,
+        "z": -1560,
+        "dimension": "overworld",
+        "last_seen": 1782119968
+    },
+    {
+        "player_name": "BillGates",
+        "x": -423,
+        "z": -1279,
+        "dimension": "overworld",
+        "last_seen": 1782120531
+    },
+    {
+        "player_name": "StephenHawking",
+        "x": -423,
+        "z": -1280,
+        "dimension": "overworld",
+        "last_seen": 1782120544
+    },
+    {
+        "player_name": "BillClinton",
+        "x": -425,
+        "z": -1283,
+        "dimension": "overworld",
+        "last_seen": 1782120626
+    },
+    {
+        "player_name": "LesWexner",
+        "x": -426,
+        "z": -1283,
+        "dimension": "overworld",
+        "last_seen": 1782194502
+    },
+    {
+        "player_name": "MichaelJackson",
+        "x": -427,
+        "z": -1284,
+        "dimension": "overworld",
+        "last_seen": 1782194501
+    },
+    {
+        "player_name": "HillaryClinton",
+        "x": -429,
+        "z": -1284,
+        "dimension": "overworld",
+        "last_seen": 1782120733
+    },
+    {
+        "player_name": "RichardBranson",
+        "x": -431,
+        "z": -1284,
+        "dimension": "overworld",
+        "last_seen": 1782120739
+    },
+    {
+        "player_name": "LeonardoDiCaprio",
+        "x": -432,
+        "z": -1284,
+        "dimension": "overworld",
+        "last_seen": 1782120755
+    },
+    {
+        "player_name": "Beyonce",
+        "x": -433,
+        "z": -1283,
+        "dimension": "overworld",
+        "last_seen": 1782120785
+    },
+    {
+        "player_name": "Regin",
+        "x": 244,
+        "z": -1276,
+        "dimension": "overworld",
+        "last_seen": 1782523642
+    },
+    {
+        "player_name": "a",
+        "x": 241,
+        "z": -1994,
+        "dimension": "overworld",
+        "last_seen": 1782603235
+    },
+    {
+        "player_name": "b",
+        "x": 67,
+        "z": -167,
+        "dimension": "nether",
+        "last_seen": 1782464944
+    },
+    {
+        "player_name": "Itzreginqyie",
+        "x": 195,
+        "z": -104,
+        "dimension": "overworld",
+        "last_seen": 1782466070
+    },
+    {
+        "player_name": "REGIN",
+        "x": 9447,
+        "z": 10799,
+        "dimension": "overworld",
+        "last_seen": 1782797235
+    },
+    {
+        "player_name": "bbb",
+        "x": 201,
+        "z": -120,
+        "dimension": "overworld",
+        "last_seen": 1782733994
+    },
+    {
+        "player_name": "Kentdzzz",
+        "x": 0,
+        "z": 0,
+        "dimension": "overworld",
+        "last_seen": 1782652199
+    },
+    {
+        "player_name": "Awee",
+        "x": -418,
+        "z": -1300,
+        "dimension": "overworld",
+        "last_seen": 1782781690
+    },
+    {
+        "player_name": "reroll",
+        "x": 235,
+        "z": 0,
+        "dimension": "the_end",
+        "last_seen": 1782991534
+    },
+    {
+        "player_name": "netherLoader",
+        "x": -97,
+        "z": -170,
+        "dimension": "nether",
+        "last_seen": 1782825730
+    },
+    {
+        "player_name": "eFrameLoader",
+        "x": -1396,
+        "z": -1000,
+        "dimension": "overworld",
+        "last_seen": 1782825799
+    },
+    {
+        "player_name": "yuanANCIENT",
+        "x": 0,
+        "z": 0,
+        "dimension": "overworld",
+        "last_seen": 1782845205
+    },
+    {
+        "player_name": "Herobrine",
+        "x": 1092,
+        "z": 1673,
+        "dimension": "overworld",
+        "last_seen": 1782879100
+    },
+    {
+        "player_name": "Dinnerbone",
+        "x": 0,
+        "z": 0,
+        "dimension": "overworld",
+        "last_seen": 1782879881
+    },
+    {
+        "player_name": "MOSSAD",
+        "x": 0,
+        "z": 0,
+        "dimension": "overworld",
+        "last_seen": 1782880032
     }
 ]
